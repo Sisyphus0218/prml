@@ -21,6 +21,10 @@ conda install tensorboard
 pip install mkl==2024.0.0
 ```
 
+## 准备数据
+
+将 `cifar-10-batches-py` 放在 `data` 文件夹下
+
 ## 运行代码
 
 进入相应文件夹
